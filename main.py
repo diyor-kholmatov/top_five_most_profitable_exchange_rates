@@ -2,11 +2,11 @@ import asyncio
 
 from aiogram import Bot, Dispatcher
 #from aiogram.types import Message
-from aiohttp import ClientSession
+# from aiohttp import ClientSession
 
 from config import Config
-from data_base import pg_db
-from aiogram.utils import executor
+# from data_base import pg_db
+# from aiogram.utils import executor
 from scrapingfile import dollar_exchange_rate, euro_exchange_rate
 
 bot = Bot(token=Config.token)
