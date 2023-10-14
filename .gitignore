@@ -5,7 +5,7 @@ __pycache__/
 data_base/
 scrapingfile/dollar_exchange_rate.json
 scrapingfile/euro_exchange_rate.json
-config.py
+config_tokens.txt
 exchange_rate.db
 test.py
 # C extensions
